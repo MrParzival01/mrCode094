@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I love to expand my coding knowledge so hit me up if you need help with a new project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
